@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1460125079 source:c:\documents and settings\emaldonado\escritorio\trabajo practico - 1 bis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"utn.h"
+
+1460123399 c:\documents and settings\emaldonado\escritorio\trabajo practico - 1 bis\utn.h
+
+1460123396 source:c:\documents and settings\emaldonado\escritorio\trabajo practico - 1 bis\utn.c
+
+1460134214 source:c:\documents and settings\emaldonado\escritorio\trabajo practico - 2 bis\utn.c
+	<stdio.h>
+
+1460133525 source:c:\documents and settings\emaldonado\escritorio\trabajo practico - 2 bis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"utn.h"
+
+1460123399 c:\documents and settings\emaldonado\escritorio\trabajo practico - 2 bis\utn.h
+
+1460137555 source:c:\documents and settings\emaldonado\escritorio\trabajo practico - 3 bis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"utn.h"
+
+1460137553 c:\documents and settings\emaldonado\escritorio\trabajo practico - 3 bis\utn.h
+
+1460137555 source:c:\documents and settings\emaldonado\escritorio\trabajo practico - 3 bis\utn.c
+	<stdio.h>
+
+1460139698 source:c:\documents and settings\emaldonado\escritorio\copia de trabajo practico - 4bis colocar fc de totales\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"utn.h"
+
+1460140389 c:\documents and settings\emaldonado\escritorio\copia de trabajo practico - 4bis colocar fc de totales\utn.h
+
+1460139813 source:c:\documents and settings\emaldonado\escritorio\copia de trabajo practico - 4bis colocar fc de totales\utn.c
+	<stdio.h>
+
+1460156538 source:e:\copia de trabajo practico - 4bis colocar fc de totales\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"utn.h"
+
+1460155422 e:\copia de trabajo practico - 4bis colocar fc de totales\utn.h
+
+1460156538 source:e:\copia de trabajo practico - 4bis colocar fc de totales\utn.c
+	<stdio.h>
+
